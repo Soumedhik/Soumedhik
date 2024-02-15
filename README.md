@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 
 ### 1. Facial Expression Detection
 
-![Facial Expression Detection](images/facial_expression_detection.png)
+![Facial Expression Detection](https://github.com/Soumedhik/FACIAL-EXPRESSION-DETECTION)
 
 **Description:** This project leverages deep learning techniques to detect facial expressions from images. The model is trained to recognize emotions such as anger, disgust, fear, happiness, sadness, and surprise.
 
