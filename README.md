@@ -52,30 +52,42 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 ## Technical Skills
 
 ### Programming Languages
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width: 50px; height: 50px;">
+</div>
 
 ### Machine Learning Frameworks
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg)
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
-![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" style="width: 50px; height: 50px;">
+</div>
 
 ### Data Analysis
-![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
-![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="width: 50px; height: 50px;">
+</div>
 
 ### Statistical Analysis
-![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" style="width: 50px; height: 50px;">
+</div>
 
 ### Data Visualization
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-![Tableau](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png)
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" style="width: 50px; height: 50px;">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 50px; height: 50px;">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" style="width: 50px; height: 50px;">
+</div>
 
 ### Big Data Technologies
-![Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)
-![Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" style="width: 50px; height: 50px;">
+</div>
