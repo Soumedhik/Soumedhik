@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 - **Description:** This repository contains code for a Convolutional Neural Network (CNN) implemented using LeNet architecture to classify malaria-infected and uninfected cells from microscopic images.
 - **Technologies Used:** Python, TensorFlow, Keras
 
-### 5. [Face Tracking VGG16](https://github.com/Soumedhik/Face_Tracking_VGG16)
+### 5. [Face Tracking VGG16](https://github.com/Soumedhik/-Face_Tracking_VGG16)
 
 - **Description:** This repository contains scripts for capturing images, performing data augmentation, creating datasets, and building a face tracking model using TensorFlow/Keras with VGG16 as a feature extractor.
 - **Technologies Used:** Python, TensorFlow, Keras
