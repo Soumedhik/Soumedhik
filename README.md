@@ -1,10 +1,10 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 
-![Repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
-![Commits](https://img.shields.io/badge/Commits-500-blue)
-![Experience](https://img.shields.io/badge/Experience-3%20Years-yellow)
-![Stars](https://img.shields.io/badge/Stars-100-orange)
-![Contributions](https://img.shields.io/badge/Contributions-500-green)
+![Repositories](https://img.shields.io/badge/Repositories-<REPO_COUNT>-brightgreen)
+![Commits](https://img.shields.io/badge/Commits-<COMMIT_COUNT>-blue)
+![Experience](https://img.shields.io/badge/Experience-<EXPERIENCE>-yellow)
+![Stars](https://img.shields.io/badge/Stars-<STAR_COUNT>-orange)
+![Contributions](https://img.shields.io/badge/Contributions-<CONTRIBUTION_COUNT>-green)
 
 🚀 Welcome to my Tech Odyssey! 🌟
 
