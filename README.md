@@ -25,25 +25,25 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 - **Description:** This project leverages deep learning techniques to detect facial expressions from images. The model is trained to recognize emotions such as anger, disgust, fear, happiness, sadness, and surprise.
 - **Technologies Used:** Python, TensorFlow, Keras, OpenCV
 
-### 2. [Diet Recommender GENAI](https://github.com/Soumedhik/DIET-RECOMMENDER-GENAI)
-
-- **Description:** An AI-powered application that tailors diet and fitness recommendations based on individual goals and preferences. It employs computer vision to recognize food in real-time using the smartphone camera.
-- **Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
-
-### 3. [Image Enhancement Autoencoder](https://github.com/Soumedhik/Image_Enhancement_Autoencoder)
+### 2. [Image Enhancement Autoencoder](https://github.com/Soumedhik/Image_Enhancement_Autoencoder)
 
 - **Description:** Enhance low-resolution images with perceptual loss for improved visual quality. This project utilizes autoencoder architectures and deep learning techniques to enhance image details.
 - **Technologies Used:** Python, TensorFlow, Keras
 
-### 4. [InnovativeKube](https://github.com/Soumedhik/InnovativeKube)
-
-- **Description:** InnovativeKube is an AI-powered app that provides tailored recommendations for diet and fitness goals. It adapts to changing needs and progress, utilizing computer vision to recognize food in real-time through smartphone cameras.
-- **Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
-
-### 5. [Sentiment Analysis - Bidirectional RNN](https://github.com/Soumedhik/SentimentAnalysis-BidirectionalRNN)
+### 3. [Sentiment Analysis - Bidirectional RNN](https://github.com/Soumedhik/SentimentAnalysis-BidirectionalRNN)
 
 - **Description:** This project performs sentiment analysis leveraging Bidirectional Recurrent Neural Networks (RNNs). The model is trained on a diverse dataset from Twitter and Reddit, providing accurate sentiment predictions.
 - **Technologies Used:** Python, TensorFlow, Keras, Natural Language Processing
+
+### 4. [LeNet Malaria CNN Classifier](https://github.com/Soumedhik/LeNet-Malaria-CNN-Classifier)
+
+- **Description:** This repository contains code for a Convolutional Neural Network (CNN) implemented using LeNet architecture to classify malaria-infected and uninfected cells from microscopic images.
+- **Technologies Used:** Python, TensorFlow, Keras
+
+### 5. [Face Tracking VGG16](https://github.com/Soumedhik/Face_Tracking_VGG16)
+
+- **Description:** This repository contains scripts for capturing images, performing data augmentation, creating datasets, and building a face tracking model using TensorFlow/Keras with VGG16 as a feature extractor.
+- **Technologies Used:** Python, TensorFlow, Keras
 
 ## Additional Information
 
