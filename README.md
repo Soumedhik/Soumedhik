@@ -1,13 +1,3 @@
-<style>
-  .interactive-img {
-    transition: transform 0.3s;
-  }
-
-  .interactive-img:hover {
-    transform: translateX(5px);
-  }
-</style>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 
 🚀 Welcome to my Tech Odyssey! 🌟
@@ -55,6 +45,16 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 - **Description:** This repository contains scripts for capturing images, performing data augmentation, creating datasets, and building a face tracking model using TensorFlow/Keras with VGG16 as a feature extractor.
 - **Technologies Used:** Python, TensorFlow, Keras
 ---
+
+<style>
+  .interactive-img {
+    transition: transform 0.3s;
+  }
+
+  .interactive-img:hover {
+    transform: translateX(5px);
+  }
+</style>
 
 # Skills
 
