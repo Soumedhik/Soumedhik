@@ -1,5 +1,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 
+![Repositories](https://img.shields.io/badge/Repositories-10-brightgreen)
+![Commits](https://img.shields.io/badge/Commits-500-blue)
+![Experience](https://img.shields.io/badge/Experience-3%20Years-yellow)
+![Stars](https://img.shields.io/badge/Stars-100-orange)
+![Contributions](https://img.shields.io/badge/Contributions-500-green)
+
 🚀 Welcome to my Tech Odyssey! 🌟
 
 Hey there, I'm Soumedhik Bharati, a passionate explorer in the vast realms of Natural Language Processing, Deep Learning, Machine Learning, and Algorithms.
