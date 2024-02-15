@@ -18,7 +18,6 @@ Hey there, I'm Soumedhik Bharati, a passionate explorer in the vast realms of Na
 # Soumedhik Bharati - Portfolio
 
 ![Animated GIF](https://github.com/Soumedhik/Soumedhik/assets/113777577/084e76cb-d8d1-476f-a677-415b9a75abd7)
-![Animated GIF](https://i.gifer.com/9B9p.gif)
 
 Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE student at Sister Nivedita University, India, with a keen interest in Machine Learning and Artificial Intelligence. Below, you'll find a curated selection of my top 5 projects, each demonstrating my skills and expertise in various domains.
 
@@ -49,6 +48,8 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 - **Description:** This repository contains scripts for capturing images, performing data augmentation, creating datasets, and building a face tracking model using TensorFlow/Keras with VGG16 as a feature extractor.
 - **Technologies Used:** Python, TensorFlow, Keras
 ---
+
+![ezgif-5-01b3e1a45a](https://github.com/Soumedhik/Soumedhik/assets/113777577/be2ff991-65af-4f02-bab5-ab87379dac1b)
 
 # Skills
 
