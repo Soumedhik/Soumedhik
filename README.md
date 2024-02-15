@@ -1,5 +1,4 @@
-[![Profile Views](https://img.shields.io/badge/Profile_Views-YourProfileViews-gold?style=flat&labelColor=black)](https://github.com/Soumedhik)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gold&style=flat&label=Profile%20Views)](https://github.com/Soumedhik)
 
 🚀 Welcome to my Tech Odyssey! 🌟
 
