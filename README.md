@@ -16,7 +16,9 @@ Hey there, I'm Soumedhik Bharati, a passionate explorer in the vast realms of Na
 ---
 
 # Soumedhik Bharati - Portfolio
-<div style="text-align:center;">
+
+![Animated GIF](https://github.com/Soumedhik/Soumedhik/assets/113777577/084e76cb-d8d1-476f-a677-415b9a75abd7)
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     ![Animated GIF](https://github.com/Soumedhik/Soumedhik/assets/113777577/084e76cb-d8d1-476f-a677-415b9a75abd7)
 </div>
 
