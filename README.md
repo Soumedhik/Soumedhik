@@ -100,3 +100,10 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 50px; height: 50px;" class="interactive-img">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" style="width: 50px; height: 50px;" class="interactive-img">
 </div>
+
+
+### Big Data Technologies
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 50px; height: 50px;" class="interactive-img">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" style="width: 50px; height: 50px;" class="interactive-img">
+</div>
