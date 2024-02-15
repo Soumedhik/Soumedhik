@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gold&style=flat&label=Profile%20Views)](https://github.com/Soumedhik)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 
 🚀 Welcome to my Tech Odyssey! 🌟
 
