@@ -1,11 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 
-![Repositories](https://img.shields.io/badge/Repositories-<REPO_COUNT>-brightgreen)
-![Commits](https://img.shields.io/badge/Commits-<COMMIT_COUNT>-blue)
-![Experience](https://img.shields.io/badge/Experience-<EXPERIENCE>-yellow)
-![Stars](https://img.shields.io/badge/Stars-<STAR_COUNT>-orange)
-![Contributions](https://img.shields.io/badge/Contributions-<CONTRIBUTION_COUNT>-green)
-
 🚀 Welcome to my Tech Odyssey! 🌟
 
 Hey there, I'm Soumedhik Bharati, a passionate explorer in the vast realms of Natural Language Processing, Deep Learning, Machine Learning, and Algorithms.
@@ -50,7 +44,38 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 
 - **Description:** This repository contains scripts for capturing images, performing data augmentation, creating datasets, and building a face tracking model using TensorFlow/Keras with VGG16 as a feature extractor.
 - **Technologies Used:** Python, TensorFlow, Keras
+- 
+---
 
-## Additional Information
+# Skills
 
-Feel free to explore the repositories for more details, code, and documentation. If you have any questions or suggestions, don't hesitate to reach out. Let's connect and collaborate on exciting projects!
+## Technical Skills
+
+### Programming Languages
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+
+### Machine Learning Frameworks
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg)
+![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+### Data Analysis
+![Pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
+![NumPy](https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+
+### Statistical Analysis
+![R](https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg)
+
+### Data Visualization
+![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)
+![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+![Tableau](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png)
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg)
+
+### Big Data Technologies
+![Hadoop](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)
+![Spark](https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg)
