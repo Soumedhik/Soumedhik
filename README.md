@@ -90,7 +90,8 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" class="skill-icon" title="Hadoop">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" class="skill-icon" title="Spark">
 </div>
-```css
+
+<style>
 .skill-container {
     display: flex;
     justify-content: space-evenly;
@@ -107,3 +108,5 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 .skill-icon:hover {
     transform: scale(1.2);
 }
+</style>
+
