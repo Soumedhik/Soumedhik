@@ -51,12 +51,10 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 ## Technical Skills
 
 ### Programming Languages
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" class="skill-icon" title="Python">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" class="skill-icon" title="Java">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" class="skill-icon" title="C++">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" class="skill-icon" title="C">
-</div>
+!Python
+!Java
+!C++
+!C
 
 ### Machine Learning Frameworks
 <div class="skill-container">
