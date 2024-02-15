@@ -51,60 +51,42 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 ## Technical Skills
 
 ### Programming Languages
-!Python
-!Java
-!C++
-!C
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width: 50px; height: 50px;">
+</div>
 
 ### Machine Learning Frameworks
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow" class="skill-icon" title="TensorFlow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" class="skill-icon" title="PyTorch">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" class="skill-icon" title="scikit-learn">
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" style="width: 50px; height: 50px;">
 </div>
 
 ### Data Analysis
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" class="skill-icon" title="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" class="skill-icon" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" class="skill-icon" title="SQL">
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="width: 50px; height: 50px;">
 </div>
 
 ### Statistical Analysis
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" class="skill-icon" title="R">
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" style="width: 50px; height: 50px;">
 </div>
 
 ### Data Visualization
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" class="skill-icon" title="Matplotlib">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" class="skill-icon" title="Seaborn">
-    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" class="skill-icon" title="Tableau">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" class="skill-icon" title="Power BI">
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" style="width: 50px; height: 50px;">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="width: 50px; height: 50px;">
+    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" style="width: 50px; height: 50px;">
 </div>
 
 ### Big Data Technologies
-<div class="skill-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" class="skill-icon" title="Hadoop">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" class="skill-icon" title="Spark">
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 50px; height: 50px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" style="width: 50px; height: 50px;">
 </div>
-
-<style>
-.skill-container {
-    display: flex;
-    justify-content: space-evenly;
-    margin-bottom: 20px;
-}
-
-.skill-icon {
-    width: 50px;
-    height: 50px;
-    margin: 0 10px;
-    transition: transform 0.3s ease-in-out;
-}
-
-.skill-icon:hover {
-    transform: scale(1.2);
-}
-</style>
-
