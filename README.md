@@ -20,55 +20,30 @@ Welcome to my GitHub profile! I'm Soumedhik Bharati, a passionate B.Tech CSE stu
 
 ## Top 5 Projects
 
-### 1. Facial Expression Detection
+### 1. [Facial Expression Detection](https://github.com/Soumedhik/FACIAL-EXPRESSION-DETECTION)
 
-[**Facial Expression Detection**](https://github.com/Soumedhik/FACIAL-EXPRESSION-DETECTION)
+- **Description:** This project leverages deep learning techniques to detect facial expressions from images. The model is trained to recognize emotions such as anger, disgust, fear, happiness, sadness, and surprise.
+- **Technologies Used:** Python, TensorFlow, Keras, OpenCV
 
-**Description:** This project leverages deep learning techniques to detect facial expressions from images. The model is trained to recognize emotions such as anger, disgust, fear, happiness, sadness, and surprise.
+### 2. [Diet Recommender GENAI](https://github.com/Soumedhik/DIET-RECOMMENDER-GENAI)
 
-**Technologies Used:** Python, TensorFlow, Keras, OpenCV
+- **Description:** An AI-powered application that tailors diet and fitness recommendations based on individual goals and preferences. It employs computer vision to recognize food in real-time using the smartphone camera.
+- **Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
 
-**Repository:** [Facial Expression Detection](https://github.com/Soumedhik/FACIAL-EXPRESSION-DETECTION)
+### 3. [Image Enhancement Autoencoder](https://github.com/Soumedhik/Image_Enhancement_Autoencoder)
 
-### 2. Diet Recommender GENAI
+- **Description:** Enhance low-resolution images with perceptual loss for improved visual quality. This project utilizes autoencoder architectures and deep learning techniques to enhance image details.
+- **Technologies Used:** Python, TensorFlow, Keras
 
-![Diet Recommender GENAI](images/diet_recommender_genai.png)
+### 4. [InnovativeKube](https://github.com/Soumedhik/InnovativeKube)
 
-**Description:** An AI-powered application that tailors diet and fitness recommendations based on individual goals and preferences. It employs computer vision to recognize food in real-time using the smartphone camera.
+- **Description:** InnovativeKube is an AI-powered app that provides tailored recommendations for diet and fitness goals. It adapts to changing needs and progress, utilizing computer vision to recognize food in real-time through smartphone cameras.
+- **Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
 
-**Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
+### 5. [Sentiment Analysis - Bidirectional RNN](https://github.com/Soumedhik/SentimentAnalysis-BidirectionalRNN)
 
-**Repository:** [Diet Recommender GENAI](https://github.com/Soumedhik/DIET-RECOMMENDER-GENAI)
-
-### 3. Image Enhancement Autoencoder
-
-![Image Enhancement Autoencoder](images/image_enhancement_autoencoder.png)
-
-**Description:** Enhance low-resolution images with perceptual loss for improved visual quality. This project utilizes autoencoder architectures and deep learning techniques to enhance image details.
-
-**Technologies Used:** Python, TensorFlow, Keras
-
-**Repository:** [Image Enhancement Autoencoder](https://github.com/Soumedhik/Image_Enhancement_Autoencoder)
-
-### 4. InnovativeKube
-
-![InnovativeKube](images/innovativekube.png)
-
-**Description:** InnovativeKube is an AI-powered app that provides tailored recommendations for diet and fitness goals. It adapts to changing needs and progress, utilizing computer vision to recognize food in real-time through smartphone cameras.
-
-**Technologies Used:** Python, JavaScript, TensorFlow, Flask, React
-
-**Repository:** [InnovativeKube](https://github.com/Soumedhik/InnovativeKube)
-
-### 5. Sentiment Analysis - Bidirectional RNN
-
-![Sentiment Analysis - Bidirectional RNN](images/sentiment_analysis_bidirectional_rnn.png)
-
-**Description:** This project performs sentiment analysis leveraging Bidirectional Recurrent Neural Networks (RNNs). The model is trained on a diverse dataset from Twitter and Reddit, providing accurate sentiment predictions.
-
-**Technologies Used:** Python, TensorFlow, Keras, Natural Language Processing
-
-**Repository:** [Sentiment Analysis - Bidirectional RNN](https://github.com/Soumedhik/SentimentAnalysis-BidirectionalRNN)
+- **Description:** This project performs sentiment analysis leveraging Bidirectional Recurrent Neural Networks (RNNs). The model is trained on a diverse dataset from Twitter and Reddit, providing accurate sentiment predictions.
+- **Technologies Used:** Python, TensorFlow, Keras, Natural Language Processing
 
 ## Additional Information
 
