@@ -33,4 +33,4 @@
 
 
 
-![Metrics](github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Soumedhik/Soumedhik/main/github-metrics.svg)
