@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (daily run is recommended)
+  # Schedule updates (daily is recommended to save Action minutes)
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -70,10 +70,15 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: soumedhik.tech
+          
+          # The PageSpeed plugin is disabled for now as it's missing an API key secret.
+          # To enable it, create a secret named PAGESPEED_TOKEN with your Google API Key.
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          # plugin_pagespeed_detailed: yes
+          # plugin_pagespeed_screenshot: yes
+          # plugin_pagespeed_url: soumedhik.tech
+          
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_limit: 24
@@ -81,7 +86,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
-          plugin_repositories_featured: Soumedhik/Combined-Attention-and-Deep-Auto-Encoder-with-GloVe-Embedding-Features, Soumedhik/Aurora-Sight-to-Sound, Soumedhik/Resume-Insight-Engine, Soumedhik/Adaptive-Guided-Query-Retrieval-AGQ-IR-, Soumedhik/AI-Text-Detection, Soumedhik/Essay-Grading-System, Soumedhik/Image_Enhancement_Autoencoder
+          plugin_repositories_featured: Soumedhik/Combined-Attention-and-Deep-Auto-Encoder-with-GloVe-Embedding-Features, Soumedhik/Aurora-Sight-to-Sound, Soumedhik/Resume-Insight-Engine, Soumdhik/Adaptive-Guided-Query-Retrieval-AGQ-IR-, Soumedhik/AI-Text-Detection, Soumedhik/Essay-Grading-System, Soumedhik/Image_Enhancement_Autoencoder
           plugin_repositories_order: featured, pinned, starred, random
           plugin_screenshot: yes
           plugin_screenshot_background: yes
@@ -90,15 +95,24 @@ jobs:
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: soumedhik.tech
           plugin_screenshot_wait: 5
+          
+          # ------------------------------------------------------------------
+          # ▼▼▼ CRITICAL FIX 1: Correct YAML syntax for viewport object ▼▼▼
+          # ------------------------------------------------------------------
           plugin_screenshot_viewport: |
             {
               "width": 1280,
               "height": 1280
             }
+
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: 2025
+          
+          # ------------------------------------------------------------------
+          # ▼▼▼ CRITICAL FIX 2: Correct YAML syntax for settings object ▼▼▼
+          # ------------------------------------------------------------------
           plugin_skyline_settings: |
             {
               "url": "https://skyline.github.com/${login}/${year}",
@@ -106,13 +120,17 @@ jobs:
               "wait": 1,
               "hide": "button, footer, a"
             }
+
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
+          # The worldmap is disabled as it's missing an API key. Re-enable if you add the token.
+          plugin_stargazers_worldmap: no 
           plugin_stars: yes
           plugin_stars_limit: 4
+          
+          # All other plugins from your original config are here...
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
