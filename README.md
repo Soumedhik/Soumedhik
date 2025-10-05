@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I'm building a system that synthesizes music from images by translating visual features into musical parameters!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/bb1_naked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bb1_naked" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soumedhik-bharati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumedhik-bharati" height="30" width="40" /></a>
