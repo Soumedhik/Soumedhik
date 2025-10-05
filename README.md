@@ -10,13 +10,13 @@
 
 - 🤝 I’m looking for help with **Connecting with researchers and engineers for knowledge sharing and potential collaborations in AI.**
 
-- 👨‍💻 All of my projects are available at [Soumedhik.tech](Soumedhik.tech)
+- 👨‍💻 All of my projects are available at [Soumedhik.tech](https://soumedhik.tech)
 
 - 💬 Ask me about **Deep Learning, Transformers, NLP, Computer Vision, RAG, and LLM Fine-Tuning.**
 
 - 📫 How to reach me **soumedhikbharati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12u_mggcRxXuEk-4Iyl5AOC-xkx1ZodBR/view](https://drive.google.com/file/d/12u_mggcRxXuEk-4Iyl5AOC-xkx1ZodBR/view)
+- 📄 [View My Resume](https://drive.google.com/file/d/12u_mggcRxXuEk-4Iyl5AOC-xkx1ZodBR/view)
 
 - ⚡ Fun fact **I'm building a system that synthesizes music from images by translating visual features into musical parameters!**
 
