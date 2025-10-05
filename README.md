@@ -1,4 +1,4 @@
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
+<img src="https://komarev.com/ghpvc/?username=Soumedhik&style=for-the-badge" alt="Profile Views" />
 <h1 align="center">Hi 👋, I'm Soumedhik Bharati</h1>
 <h3 align="center">AI/ML Researcher & Deep Learning Engineer specializing in Computer Vision, NLP, and Generative Models.</h3>
 
