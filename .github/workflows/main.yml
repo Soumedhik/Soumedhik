@@ -1,6 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
-on:
+on: 
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   # Allows you to run this workflow manually from the Actions tab
