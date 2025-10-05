@@ -1,0 +1,21 @@
+name: GitHub Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows manual runs
+  workflow_dispatch:
+  # Run on pushes to main
+  push: { branches: ["main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Options
+          user: Soumedhik
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
