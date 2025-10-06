@@ -1,4 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
+<meta name="google-site-verification" content="SjbnMOELB_fHmmJ_CeL3cqb8vdd0whpleXl2dXlKHV0" />
 <h1 align="center">Hi 👋, I'm Soumedhik Bharati</h1>
 <h3 align="center">AI/ML Researcher & Deep Learning Engineer specializing in Computer Vision, NLP, and Generative Models.</h3>
 
