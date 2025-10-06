@@ -1,6 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 <meta name="google-site-verification" content="SjbnMOELB_fHmmJ_CeL3cqb8vdd0whpleXl2dXlKHV0" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumedhik+Bharati)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumedhik+Bharati)](https://git.io/typing-svg)
 <h3 align="center">AI/ML Researcher & Deep Learning Engineer specializing in Computer Vision, NLP, and Generative Models.</h3>
 
 - 🔭 I’m currently working on **Advancing few-shot learning for neurological datasets and developing production-scale RAG pipelines.**
