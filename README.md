@@ -3,23 +3,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumedhik+Bharati)](https://git.io/typing-svg)
 <h3 align="center">AI/ML Researcher & Deep Learning Engineer specializing in Computer Vision, NLP, and Generative Models.</h3>
 
-- 🔭 I’m currently working on **Advancing few-shot learning for neurological datasets and developing production-scale RAG pipelines.**
+- I’m currently working on **Advancing few-shot learning for neurological datasets and developing production-scale RAG pipelines.**
 
-- 🌱 I’m currently learning **Advanced concepts in Mamba state-space models, quantum machine learning, and parameter-efficient fine-tuning (PEFT).**
+- I’m currently learning **Advanced concepts in Mamba state-space models, quantum machine learning, and parameter-efficient fine-tuning (PEFT).**
 
-- 👯 I’m looking to collaborate on **Open-source projects in Generative AI, Multi-Modal Systems, and Efficient LLM Deployment.**
+- I’m looking to collaborate on **Open-source projects in Generative AI, Multi-Modal Systems, and Efficient LLM Deployment.**
 
-- 🤝 I’m looking for help with **Connecting with researchers and engineers for knowledge sharing and potential collaborations in AI.**
+- I’m looking for help with **Connecting with researchers and engineers for knowledge sharing and potential collaborations in AI.**
 
-- 👨‍💻 All of my projects are available at [Soumedhik.tech](https://soumedhik.tech)
+- All of my projects are available at [Soumedhik.tech](https://soumedhik.tech)
 
-- 💬 Ask me about **Deep Learning, Transformers, NLP, Computer Vision, RAG, and LLM Fine-Tuning.**
+- Ask me about **Deep Learning, Transformers, NLP, Computer Vision, RAG, and LLM Fine-Tuning.**
 
-- 📫 How to reach me **soumedhikbharati@gmail.com**
+- How to reach me **soumedhikbharati@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/12u_mggcRxXuEk-4Iyl5AOC-xkx1ZodBR/view)
+- [View My Resume](https://drive.google.com/file/d/12u_mggcRxXuEk-4Iyl5AOC-xkx1ZodBR/view)
 
-- ⚡ Fun fact **I'm building a system that synthesizes music from images by translating visual features into musical parameters!**
+- Fun fact **I'm building a system that synthesizes music from images by translating visual features into musical parameters!**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
