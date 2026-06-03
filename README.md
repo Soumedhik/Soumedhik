@@ -1,7 +1,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&label=Profile%20Views&color=blueviolet)](https://github.com/Soumedhik)
 <meta name="google-site-verification" content="SjbnMOELB_fHmmJ_CeL3cqb8vdd0whpleXl2dXlKHV0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&letterSpacing=1%E2%80%932px&duration=2000&pause=1000&center=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Soumedhik+Bharati;Incoming+MSc+NLP+%40+MBZUAI+%F0%9F%87%A6%F0%9F%87%AA;Researcher+in+Cultural+NLP+%26+Responsible+AI;7+papers+%40+ACL+%26+EACL+2026)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&letterSpacing=1px&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumedhik+Bharati;Incoming+MSc+NLP+%40+MBZUAI+%F0%9F%87%A6%F0%9F%87%AA;Researcher+in+Cultural+NLP+%26+Responsible+AI;7+papers+%40+ACL+%26+EACL+2026+%F0%9F%93%84" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">NLP Researcher · Incoming MSc @ MBZUAI (Fall 2026) · Cultural AI · Responsible NLP · Low-Resource Languages</h3>
 
@@ -15,7 +19,7 @@
 
 ### 🎓 About Me
 
-I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) — one of the world's leading researchers in multilingual and culturally-aware NLP.
+I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) - one of the world's leading researchers in multilingual and culturally-aware NLP.
 
 Currently wrapping up my position as a **Project Associate at the [NLIP Lab, IIT Hyderabad](https://nlip-lab.github.io/)**, where I've worked on cultural evaluation frameworks, preference tuning for culturally-aware models, and mechanistic interpretability.
 
