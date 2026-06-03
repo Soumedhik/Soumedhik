@@ -16,20 +16,17 @@
 </p>
 
 ---
-
 ### 🎓 About Me
 
-I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/) - one of the world's leading researchers in multilingual and culturally-aware NLP.
-
-Currently wrapping up my position as a **Project Associate at the [NLIP Lab, IIT Hyderabad](https://nlip-lab.github.io/)**, where I've worked on cultural evaluation frameworks, preference tuning for culturally-aware models, and mechanistic interpretability.
+I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), one of the world's leading researchers in multilingual and culturally-aware NLP.
 
 ---
 
 ### 🔬 What I'm Working On
 
-- **Mechanistic interpretability of LLMs** for cultural knowledge — understanding how transformer circuits encode (and misrepresent) cultural information
-- **Prestige bias in language models** — building evaluation frameworks that measure how prompting language affects LLM outputs, separating bias from recall (with [Dr. Arij Riyabi](https://scholar.google.com/))
-- **EMNLP 2025 submissions** on cultural alignment and evaluation frameworks for low-resource languages
+- **Mechanistic interpretability of LLMs** for cultural knowledge representation
+- **Evaluation frameworks** for measuring bias in language models across low-resource and high-resource languages
+- **Cultural alignment** of smaller models through preference tuning and RLHF
 
 ---
 
