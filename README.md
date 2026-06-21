@@ -16,7 +16,7 @@
 </p>
 
 ---
-### 🎓 About Me
+### 🎓 About Me:
 
 I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), one of the world's leading researchers in multilingual and culturally-aware NLP.
 
