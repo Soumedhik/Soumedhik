@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center">NLP Researcher · Incoming MSc @ MBZUAI (Fall 2026) · Cultural AI · Responsible NLP · Low-Resource Languages</h3>
+<h3 align="center">MSc @ MBZUAI (2026-2028) · Cultural AI · Responsible NLP · Low-Resource Languages</h3>
 
 <p align="center">
   <a href="https://soumedhik.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-soumedhik.github.io-blue?style=flat-square&logo=google-chrome" /></a>
@@ -16,58 +16,12 @@
 </p>
 
 ---
-### 🎓 About Me:
+### About Me:
 
 I'm an NLP researcher focused on **cultural alignment**, **bias mitigation**, and **low-resource languages**. I'll be joining [**Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)**](https://mbzuai.ac.ae/) as an MSc NLP student in **Fall 2026**, working under [Prof. Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/), one of the world's leading researchers in multilingual and culturally-aware NLP.
 
 ---
-
-### 🔬 What I'm Working On
-
-- **Mechanistic interpretability of LLMs** for cultural knowledge representation
-- **Evaluation frameworks** for measuring bias in language models across low-resource and high-resource languages
-- **Cultural alignment** of smaller models through preference tuning and RLHF
-
----
-
-### 📄 Recent Publications
-
-**7 papers accepted in the ACL 2026 cycle:**
-- 4 × **ACL 2026** (including Industry Track and Student Research Workshop)
-- 3 × **EACL 2026** (AbjadNLP Workshop)
-
-Research themes: cultural NLP, linguistic bias mitigation, interlingual adaptation, preference tuning for inclusive AI
-
----
-
-### 🌱 Currently Learning
-
-- Mechanistic interpretability and circuit analysis in transformers
-- Sociotechnical AI risk evaluation frameworks
-- Advanced alignment techniques (DPO, RLHF, Constitutional AI)
-
----
-
-### 🤝 Looking to Collaborate On
-
-- Cross-lingual and multilingual NLP for underrepresented languages
-- Cultural evaluation benchmarks and fairness metrics
-- Responsible AI and ethics in NLP systems
-
----
-
-### 🏛️ Research Experience
-
-| Institution | Role | Focus |
-|---|---|---|
-| MBZUAI (Incoming) | MSc NLP Student | Cultural NLP, Ethics, Interpretability |
-| IIT Hyderabad (NLIP Lab) | Project Associate | Cultural Alignment, Bias Mitigation |
-| IIT Kharagpur (CCDS) | Research Intern | Retrieval-Augmented Generation |
-| Carnegie Mellon (Xu Lab) | Research Intern | Scientific ML, Cryo-ET |
-
----
-
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -86,17 +40,16 @@ Research themes: cultural NLP, linguistic bias mitigation, interlingual adaptati
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Metrics](https://raw.githubusercontent.com/Soumedhik/Soumedhik/main/github-metrics.svg)
 
 ---
 
-### 📬 Get in Touch
+### Get in Touch
 
-- 🌐 Website: [soumedhik.github.io](https://soumedhik.github.io/)
-- 💼 LinkedIn: [soumedhik-bharati](https://linkedin.com/in/soumedhik-bharati)
-- 📧 Email: soumedhikbharati@gmail.com
-- 📄 Resume: [View Here](https://soumedhik.github.io/Resume-Main.pdf)
+-  Website: [soumedhik.github.io](https://soumedhik.github.io/)
+-  LinkedIn: [soumedhik-bharati](https://linkedin.com/in/soumedhik-bharati)
+-  Email: soumedhikbharati@gmail.com/ soumedhik.bharati@mbzuai.ac.ae
 
 *Open to research collaborations, discussions about cultural NLP, responsible AI, and multilingual systems.*
